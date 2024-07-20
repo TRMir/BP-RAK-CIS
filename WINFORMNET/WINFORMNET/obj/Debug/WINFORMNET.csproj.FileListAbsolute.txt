@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\WINFORMNET\WINFORMNET\obj\Debug\WINFORMNET.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\WINFORMNET\WINFORMNET\obj\Debug\WINFORMNET.Properties.Resources.resources
+C:\Users\pc\source\repos\WINFORMNET\WINFORMNET\obj\Debug\WINFORMNET.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\WINFORMNET\WINFORMNET\obj\Debug\WINFORMNET.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\WINFORMNET\WINFORMNET\obj\Debug\WINFORMNET.Form1.resources
+C:\Users\pc\source\repos\WINFORMNET\WINFORMNET\bin\Debug\WINFORMNET.exe.config
+C:\Users\pc\source\repos\WINFORMNET\WINFORMNET\bin\Debug\WINFORMNET.exe
+C:\Users\pc\source\repos\WINFORMNET\WINFORMNET\bin\Debug\WINFORMNET.pdb
+C:\Users\pc\source\repos\WINFORMNET\WINFORMNET\obj\Debug\WINFORMNET.exe
+C:\Users\pc\source\repos\WINFORMNET\WINFORMNET\obj\Debug\WINFORMNET.pdb
